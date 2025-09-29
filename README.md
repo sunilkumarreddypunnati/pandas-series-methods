@@ -26,17 +26,17 @@ Perfect for learners who want to **master Series methods and transformations**.
 ---
 
 # ✅ What I Practiced  
-➕ Mathematical & Statistical Methods – sum, mean, min, max, std
-🏷️ Metadata & Structure – index, dtype, shape, size
-🔄 Unique & Frequency Counts – unique, nunique, value_counts
-🧹 Missing Data Handling – isnull, notnull, dropna, fillna
-🎯 Conditional Filtering – Boolean indexing
-⚖️ Arithmetic Operations – element-wise math
-🔀 Sorting – sort_values, sort_index
-📝 Function Application – apply, map, lambda
-🔢 Cumulative & Rolling Operations – cumsum, cumprod, rolling
-✂️ String Manipulation – upper, lower, contains, replace, split
-🚀 Full Pipeline – cleaning, transformation, aggregation
+- ➕ Mathematical & Statistical Methods – sum, mean, min, max, std
+- 🏷️ Metadata & Structure – index, dtype, shape, size
+- 🔄 Unique & Frequency Counts – unique, nunique, value_counts
+- 🧹 Missing Data Handling – isnull, notnull, dropna, fillna
+- 🎯 Conditional Filtering – Boolean indexing
+- ⚖️ Arithmetic Operations – element-wise math
+- 🔀 Sorting – sort_values, sort_index
+- 📝 Function Application – apply, map, lambda
+- 🔢 Cumulative & Rolling Operations – cumsum, cumprod, rolling
+- ✂️ String Manipulation – upper, lower, contains, replace, split
+- 🚀 Full Pipeline – cleaning, transformation, aggregation
 
   ---
 # 👨‍💻 About Me  
