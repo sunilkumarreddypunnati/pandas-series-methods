@@ -58,9 +58,8 @@ Perfect for learners who want to **master Series methods and transformations**.
 ---
 
 # 🙌 Connect & Support  
-
 If you’re a recruiter, mentor, or fellow learner — let’s connect and grow together!  
-⭐ **Star this repo** if you found it helpful or inspiring.  
+⭐ **Star this repo** if you found it helpful or inspiring. 
 ----
 
 # ℹ️ Summary  
